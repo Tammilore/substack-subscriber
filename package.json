@@ -1,0 +1,11 @@
+{
+  "name": "substack-subscriber",
+  "version": "1.0.0",
+  "description": "Unofficial package to subscribe users to Substack newsletters",
+  "main": "src/subscribe.js",
+  "author": "Tami Lawal",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.49.1"
+  }
+}
